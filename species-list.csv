@@ -1,0 +1,478 @@
+﻿col1,col2,col3
+Aberrant Achatina,1,Achatina_Character_BP_Aberrant_C
+Aberrant Anglerfish,1,Angler_Character_BP_Aberrant_C
+Aberrant Ankylosaurus,1,Ankylo_Character_BP_Aberrant_C
+Aberrant Araneo,1,SpiderS_Character_BP_Aberrant_C
+Aberrant Arthropluera,1,Arthro_Character_BP_Aberrant_C
+Aberrant Baryonyx,1,Baryonyx_Character_BP_Aberrant_C
+Aberrant Beelzebufo,1,Toad_Character_BP_Aberrant_C
+Aberrant Carbonemys,1,Turtle_Character_BP_Aberrant_C
+Aberrant Carnotaurus,1,Carno_Character_BP_Aberrant_C
+Aberrant Cnidaria,0,Cnidaria_Character_BP_Aberrant_C
+Aberrant Coelacanth,0,Coel_Character_BP_Aberrant_C
+Aberrant Dimetrodon,1,Dimetro_Character_BP_Aberrant_C
+Aberrant Dimorphodon,1,Dimorph_Character_BP_Aberrant_C
+Aberrant Diplocaulus,1,Diplocaulus_Character_BP_Aberrant_C
+Aberrant Diplodocus,1,Diplodocus_Character_BP_Aberrant_C
+Aberrant Dire Bear,1,Direbear_Character_BP_Aberrant_C
+Aberrant Dodo,1,Dodo_Character_BP_Aberrant_C
+Aberrant Doedicurus,1,Doed_Character_BP_Aberrant_C
+Aberrant Dung Beetle,0,DungBeetle_Character_BP_Aberrant_C
+Aberrant Electrophorus,1,Eel_Character_BP_Aberrant_C
+Aberrant Equus,1,Equus_Character_BP_Aberrant_C
+Aberrant Gigantopithecus,1,Bigfoot_Character_BP_Aberrant_C
+Aberrant Iguanodon,1,Iguanodon_Character_BP_Aberrant_C
+Aberrant Lystrosaurus,1,Lystro_Character_BP_Aberrant_C
+Aberrant Manta,1,Manta_Character_BP_Aberrant_C
+Aberrant Megalania,1,Megalania_Character_BP_Aberrant_C
+Aberrant Megalosaurus,1,Megalosaurus_Character_BP_Aberrant_C
+Aberrant Meganeura,0,Dragonfly_Character_BP_Aberrant_C
+Aberrant Moschops,1,Moschops_Character_BP_Aberrant_C
+Aberrant Otter,1,Otter_Character_BP_Aberrant_C
+Aberrant Ovis,1,Sheep_Character_BP_Aberrant_C
+Aberrant Paraceratherium,1,Paracer_Character_BP_Aberrant_C
+Aberrant Parasaur,1,Para_Character_BP_Aberrant_C
+Aberrant Piranha,0,Piranha_Character_BP_Aberrant_C
+Aberrant Pulmonoscorpius,1,Scorpion_Character_BP_Aberrant_C
+Aberrant Purlovia,1,Purlovia_Character_BP_Aberrant_C
+Aberrant Raptor,1,Raptor_Character_BP_Aberrant_C
+Aberrant Salmon,0,Salmon_Character_Aberrant_C
+Aberrant Sarco,1,Sarco_Character_BP_Aberrant_C
+Aberrant Spino,1,Spino_Character_BP_Aberrant_C
+Aberrant Stegosaurus,1,Stego_Character_BP_Aberrant_C
+Aberrant Titanoboa,0,BoaFrill_Character_BP_Aberrant_C
+Aberrant Triceratops,1,Trike_Character_BP_Aberrant_C
+Aberrant Trilobite,0,Trilobite_Character_Aberrant_C
+Achatina,1,Achatina_Character_BP_C
+Allosaurus,1,Allo_Character_BP_C
+Alpha Basilisk,0,MegaBasilisk_Character_BP_C
+Alpha Blood Crystal Wyvern,0,CrystalWyvern_Character_BP_Mega_C
+Alpha Carnotaurus,0,MegaCarno_Character_BP_C
+Alpha Corrupted Master Controller,0,VRMainBoss_Character_Hard_C
+Alpha Deathworm,0,MegaDeathworm_Character_BP_C
+Alpha Fire Wyvern,0,MegaWyvern_Character_BP_Fire_C
+Alpha Karkinos,0,MegaCrab_Character_BP_C
+Alpha King Titan,0,KingKaiju_Character_BP_Alpha_C
+Alpha Leedsichthys,0,Alpha_Leedsichthys_Character_BP_C
+Alpha Megalodon,0,MegaMegalodon_Character_BP_C
+Alpha Moeder Master of the Ocean,0,EelBoss_Character_BP_Hard_C
+Alpha Mosasaur,0,Mosa_Character_BP_Mega_C
+Alpha Raptor,0,MegaRaptor_Character_BP_C
+Alpha Surface Reaper King,0,MegaXenomorph_Character_BP_Male_Surface_C
+Alpha T-Rex,0,MegaRex_Character_BP_C
+Alpha Tusoteuthis,0,Mega_Tusoteuthis_Character_BP_C
+Alpha X-Triceratops,0,Volcano_Trike_Character_BP_Retrieve_Alpha_C
+Amargasaurus,1,Volcano_Trike_Character_BP_Retrieve_Alpha_C
+Ammonite,0,Ammonite_Character_C
+Anglerfish,1,Angler_Character_BP_C
+Ankylosaurus,1,Ankylo_Character_BP_C
+Araneo,1,SpiderS_Character_BP_C
+Archaeopteryx,1,Archa_Character_BP_C
+Argentavis,1,Argent_Character_BP_C
+Arthropluera,1,Arthro_Character_BP_C
+Astrocetus,0,SpaceWhale_Character_BP_C
+Astrodelphis,1,SpaceDolphin_Character_BP_C
+Attack Drone,0,SpaceDolphin_Character_BP_C
+Baryonyx,1,Baryonyx_Character_BP_C
+Basilisk,0,Basilisk_Character_BP_C
+Basilisk Ghost,0,Ghost_Basilisk_Character_BP_C
+Basilosaurus,1,Basilosaurus_Character_BP_C
+Beelzebufo,1,Toad_Character_BP_C
+Beta Corrupted Master Controller,0,VRMainBoss_Character_Medium_C
+Beta King Titan,0,KingKaiju_Character_BP_Beta_C
+Beta Moeder Master of the Ocean,0,EelBoss_Character_BP_Medium_C
+Blood Crystal Wyvern,1,CrystalWyvern_Character_BP_Blood_C
+Bloodstalker,1,BogSpider_Character_BP_C
+Bone Fire Wyvern,0,Bone_MegaWyvern_Character_BP_Fire_C
+Brontosaurus,1,Sauropod_Character_BP_C
+Broodmother Lysrix,0,SpiderL_Character_BP_C
+Broodmother Lysrix (Alpha),0,SpiderL_Character_BP_C
+Broodmother Lysrix (Beta),0,SpiderL_Character_BP_C
+Broodmother Lysrix (Gamma),0,SpiderL_Character_BP_C
+Brute Araneo,0,SpiderS_Character_BP_Hunt_C
+Brute Astrocetus,0,SpaceWhale_Character_BP_Brute_C
+Brute Basilosaurus,0,Basilosaurus_Character_BP_Hunt_C
+Brute Bloodstalker,0,BogSpider_Character_BP_Hunt_C
+Brute Ferox,0,Shapeshifter_Large_Character_BP_Hunt_C
+Brute Fire Wyvern,0,Wyvern_Character_BP_Fire_GauntletBoss_C
+Brute Leedsichthys,0,Leedsichthys_Character_BP_Hunt_C
+Brute Magmasaur,0,Cherufe_Character_BP_Hunt_C
+Brute Malfunctioned Tek Giganotosaurus,0,BionicGigant_Character_BP_Malfunctioned_Hunt_C
+Brute Malfunctioned Tek Rex,0,BionicRex_Character_BP_Malfunctioned_Hunt_C
+Brute Mammoth,0,Mammoth_Character_BP_Hunt_C
+Brute Megaloceros,0,Stag_Character_BP_Hunt_C
+Brute Plesiosaur,0,Plesiosaur_Character_BP_Hunt_C
+Brute Reaper King,0,Xenomorph_Character_BP_Male_InitialBuryOnly_Hunt_C
+Brute Sarco,0,Sarco_Character_BP_Hunt_C
+Brute Seeker,0,Pteroteuthis_Char_BP_HuntFollower_C
+Brute Tusoteuthis,0,Tusoteuthis_Character_BP_Hunt_C
+Brute X-Allosaurus,0,Volcano_Allo_Character_BP_Hunt_C
+Brute X-Megalodon,0,Ocean_Megalodon_Character_BP_Hunt_C
+Brute X-Mosasaurus,0,Ocean_Mosa_Character_BP_Hunt_C
+Brute X-Raptor,0,Bog_Raptor_Character_BP_Hunt_C
+Brute X-Rex,0,Volcano_Rex_Character_BP_Hunt_C
+Brute X-Rock Elemental,0,Volcano_Golem_Character_BP_Hunt_C
+Brute X-Spino,0,Bog_Spino_Character_BP_Hunt_C
+Brute X-Yutyrannus,0,Snow_Yutyrannus_Character_BP_Hunt_C
+Bulbdog,1,LanternPug_Character_BP_C
+Bulbdog Ghost,0,Ghost_LanternPug_Character_BP_C
+Bunny Dodo,0,0
+Bunny Oviraptor,0,0
+Carbonemys,1,Turtle_Character_BP_C
+Carnotaurus,1,Carno_Character_BP_C
+Castoroides,1,Beaver_Character_BP_C
+Chalicotherium,1,Chalico_Character_BP_C
+Chalk Golem,0,ChalkGolem_Character_BP_C
+Cnidaria,0,Cnidaria_Character_BP_C
+Coelacanth,0,Coel_Character_BP_C
+Compy,1,Compy_Character_BP_C
+Corrupted Arthropluera,0,Arthro_Character_BP_Corrupt_C
+Corrupted Avatar,0,Bot_Character_BP_C
+Corrupted Carnotaurus,0,Carno_Character_BP_Corrupt_C
+Corrupted Chalicotherium,0,Chalico_Character_BP_Corrupt_C
+Corrupted Dilophosaur,0,Dilo_Character_BP_Corrupt_C
+Corrupted Dimorphodon,0,Dimorph_Character_BP_Corrupt_C
+Corrupted Giganotosaurus,0,Gigant_Character_BP_Corrupt_C
+Corrupted Master Controller,0,Gigant_Character_BP_Corrupt_C
+Corrupted Paraceratherium,0,Paracer_Character_BP_Corrupt_C
+Corrupted Pteranodon,0,Ptero_Character_BP_Corrupt_C
+Corrupted Raptor,0,Raptor_Character_BP_Corrupt_C
+Corrupted Reaper King,0,Xenomorph_Character_BP_Male_Tamed_Corrupt_C
+Corrupted Rex,0,Rex_Character_BP_Corrupt_C
+Corrupted Rock Drake,0,RockDrake_Character_BP_Corrupt_C
+Corrupted Spino,0,Spino_Character_BP_Corrupt_C
+Corrupted Stegosaurus,0,Stego_Character_BP_Corrupt_C
+Corrupted Survivor,0,Stego_Character_BP_Corrupt_C
+Corrupted Triceratops,0,Trike_Character_BP_Corrupt_C
+Corrupted Wyvern,0,Wyvern_Character_BP_Fire_Corrupt_C
+Crystal Wyvern,1,Wyvern_Character_BP_Fire_Corrupt_C
+Crystal Wyvern Queen,0,Wyvern_Character_BP_Fire_Corrupt_C
+Crystal Wyvern Queen (Alpha),0,CrystalWyvern_Character_BP_Boss_Hard_C
+Crystal Wyvern Queen (Beta),0,CrystalWyvern_Character_BP_Boss_Medium_C
+Crystal Wyvern Queen (Gamma),0,CrystalWyvern_Character_BP_Boss_Easy_C
+Daeodon,1,Daeodon_Character_BP_C
+Deathworm,0,Deathworm_Character_BP_C
+Defense Unit,0,Defender_Character_BP_C
+Deinonychus,1,Deinonychus_Character_BP_C
+Desert Titan,0,DesertKaiju_Character_BP_C
+Desert Titan Flock,0,DesertKaiju_FirstFlockChar_BP_C
+Dilophosaur,1,Dilo_Character_BP_C
+Dimetrodon,1,Dimetro_Character_BP_C
+Dimorphodon,1,Dimorph_Character_BP_C
+Dinopithecus,1,Dimorph_Character_BP_C
+Diplocaulus,1,Diplocaulus_Character_BP_C
+Diplodocus,1,Diplodocus_Character_BP_C
+Dire Bear,1,Direbear_Character_BP_C
+Dire Polar Bear,1,Direbear_Character_BP_C
+Direwolf,1,Direwolf_Character_BP_C
+Direwolf Ghost,0,Ghost_Direwolf_Character_BP_C
+Diseased Leech,0,Leech_Character_Diseased_C
+Dodo,1,Dodo_Character_BP_C
+Dodo Wyvern,0,DodoWyvern_Character_BP_C
+DodoRex,0,DodoRex_Character_BP_C
+Doedicurus,1,Doed_Character_BP_C
+Dragon,0,Doed_Character_BP_C
+Dragon (Alpha),0,Dragon_Character_BP_Boss_Hard_C
+Dragon (Beta),0,Dragon_Character_BP_Boss_Medium_C
+Dragon (Gamma),0,Dragon_Character_BP_Boss_Easy_C
+Dung Beetle,0,DungBeetle_Character_BP_C
+Dunkleosteus,1,Dunkle_Character_BP_C
+Eel Minion,0,EelMinion_Character_BP_Easy_C
+Electrophorus,1,Eel_Character_BP_C
+Elemental Reaper King,0,Eel_Character_BP_C
+Ember Crystal Wyvern,1,CrystalWyvern_Character_BP_Ember_C
+Enforcer,0,Enforcer_Character_BP_C
+Enraged Corrupted Rex,0,MegaRex_Character_BP_Corrupt_C
+Enraged Triceratops,0,MegaTrike_Character_BP_Corrupt_C
+Equus,1,Equus_Character_BP_C
+Eurypterid,0,Euryp_Character_C
+Exo-Mek,0,Exosuit_Character_BP_C
+Experimental Giganotosaurus,0,Exosuit_Character_BP_C
+Featherlight,1,LanternBird_Character_BP_C
+Ferox,1,Shapeshifter_Small_Character_BP_C
+Ferox (Large),1,Shapeshifter_Large_Character_BP_C
+Fire Wyvern,1,Wyvern_Character_BP_Fire_C
+Forest Titan,0,ForestKaiju_Character_BP_C
+Forest Wyvern,0,Wyvern_Character_BP_Fire_Minion_C
+Gacha,1,Gacha_Character_BP_C
+GachaClaus,0,Gacha_Claus_Character_BP_C
+Gallimimus,1,Galli_Character_BP_C
+Gamma Corrupted Master Controller,0,VRMainBoss_Character_Easy_C
+Gamma King Titan,0,KingKaiju_Character_BP_C
+Gamma Moeder Master of the Ocean,0,EelBoss_Character_BP_Easy_C
+Gasbags,1,GasBags_Character_BP_C
+Giant Bee,0,Bee_Character_BP_C
+Giant Queen Bee,0,Bee_Character_BP_C
+Giant Worker Bee,0,HoneyBee_Character_BP_C
+Giganotosaurus,1,Gigant_Character_BP_C
+Gigantopithecus,1,Bigfoot_Character_BP_C
+Glowbug,0,Lightbug_Character_BaseBP_C
+Glowtail,1,LanternLizard_Character_BP_C
+Golden Striped Brute Megalodon,0,Ocean_Megalodon_Character_BP_Retrieve_Brute_C
+Golden Striped Megalodon,0,Ocean_Megalodon_Character_BP_Retrieve_C
+Griffin,0,Griffin_Character_BP_C
+Hesperornis,1,Hesperornis_Character_BP_C
+Human,0,Hesperornis_Character_BP_C
+Hyaenodon,1,Hyaenodon_Character_BP_C
+Ice Golem,0,IceGolem_Character_BP_C
+Ice Titan,0,IceKaiju_Character_BP_C
+Ice Wyvern,0,Ragnarok_Wyvern_Override_Ice_C
+Iceworm Male,0,Ragnarok_Wyvern_Override_Ice_C
+Iceworm Queen,0,Ragnarok_Wyvern_Override_Ice_C
+Ichthyornis,1,Ichthyornis_Character_BP_C
+Ichthyosaurus,1,Dolphin_Character_BP_C
+Iguanodon,1,Iguanodon_Character_BP_C
+Injured Brute Reaper King,0,Xenomorph_Character_BP_Male_InitialBuryOnly_Brute_Retrieve_C
+Insect Swarm,0,InsectSwarmChar_BP_C
+Jerboa,1,Jerboa_Character_BP_C
+Jug Bug,0,Jugbug_Character_BaseBP_C
+Kairuku,1,Kairuku_Character_BP_C
+Kaprosuchus,1,Kaprosuchus_Character_BP_C
+Karkinos,0,Crab_Character_BP_C
+Kentrosaurus,1,Kentro_Character_BP_C
+King Titan,0,Kentro_Character_BP_C
+Lamprey,0,Lamprey_Character_C
+Lava Elemental,0,Lamprey_Character_C
+Leech,0,Leech_Character_C
+Leedsichthys,0,Leedsichthys_Character_BP_C
+Lightning Wyvern,1,Wyvern_Character_BP_Lightning_C
+Liopleurodon,0,Liopleurodon_Character_BP_C
+Lymantria,1,Moth_Character_BP_C
+Lystrosaurus,1,Lystro_Character_BP_C
+Macrophage,0,Macrophage_Swarm_Character_C
+Macro-Summoner,0,Macrophage_Swarm_Character_C
+Maewing,1,MilkGlider_Character_BP_C
+Magmasaur,1,Cherufe_Character_BP_C
+Malfunctioned Attack Drone,0,Cherufe_Character_BP_C
+Malfunctioned Defense Unit,0,Cherufe_Character_BP_C
+Malfunctioned Enforcer,0,Cherufe_Character_BP_C
+Malfunctioned Mek Knight,0,Cherufe_Character_BP_C
+Malfunctioned Tek Giganotosaurus,0,BionicGigant_Character_BP_Malfunctioned_C
+Malfunctioned Tek Parasaur,0,BionicPara_Character_BP_Malfunctioned_C
+Malfunctioned Tek Quetzal,0,BionicQuetz_Character_BP_Malfunctioned_C
+Malfunctioned Tek Raptor,0,BionicRaptor_Character_BP_Malfunctioned_C
+Malfunctioned Tek Rex,0,BionicRex_Character_BP_Malfunctioned_C
+Malfunctioned Tek Stegosaurus,0,BionicStego_Character_BP_Malfunctioned_C
+Malfunctioned Tek Stryder,0,BionicStego_Character_BP_Malfunctioned_C
+Malfunctioned Tek Triceratops,0,BionicTrike_Character_BP_Malfunctioned_C
+Mammoth,1,Mammoth_Character_BP_C
+Managarmr,1,IceJumper_Character_BP_C
+Manta,1,Manta_Character_BP_C
+Manticore,0,Manta_Character_BP_C
+Manticore (Alpha),0,Manticore_Character_BP_Hard_C
+Manticore (Beta),0,Manticore_Character_BP_Medium_C
+Manticore (Gamma),0,Manticore_Character_BP_Easy_C
+Mantis,1,Mantis_Character_BP_C
+Mantis Ghost,0,Ghost_Mantis_Character_BP_C
+Mega Mek,0,MegaMek_Character_BP_C
+Megachelon,1,GiantTurtle_Character_BP_C
+Megalania,1,Megalania_Character_BP_C
+Megaloceros,1,Stag_Character_BP_C
+Megalodon,1,Megalodon_Character_BP_C
+Megalosaurus,1,Megalosaurus_Character_BP_C
+Meganeura,0,Dragonfly_Character_BP_C
+Megapithecus,0,Gorilla_Character_BP_C
+Megapithecus (Alpha),0,Gorilla_Character_BP_C
+Megapithecus (Beta),0,Gorilla_Character_BP_C
+Megapithecus (Gamma),0,Gorilla_Character_BP_C
+Megatherium,1,Megatherium_Character_BP_C
+Mek,0,Mek_Character_BP_C
+Mesopithecus,1,Monkey_Character_BP_C
+Microraptor,1,Microraptor_Character_BP_C
+Moeder Master of the Ocean,0,Microraptor_Character_BP_C
+Morellatops,1,camelsaurus_Character_BP_C
+Mosasaurus,1,Mosa_Character_BP_C
+Moschops,1,Moschops_Character_BP_C
+Nameless,0,ChupaCabra_Character_BP_C
+Noglin,0,BrainSlug_Character_BP_C
+Oil Jug Bug,0,Jugbug_Oil_Character_BP_C
+Onyc,1,Jugbug_Oil_Character_BP_C
+Otter,1,Otter_Character_BP_C
+Overseer,0,Otter_Character_BP_C
+Overseer (Alpha),0,Otter_Character_BP_C
+Overseer (Beta),0,Otter_Character_BP_C
+Overseer (Gamma),0,Otter_Character_BP_C
+Oviraptor,1,Oviraptor_Character_BP_C
+Ovis,1,Sheep_Character_BP_C
+Pachy,1,Pachy_Character_BP_C
+Pachyrhinosaurus,1,Pachyrhino_Character_BP_C
+Paraceratherium,1,Paracer_Character_BP_C
+Parakeet Fish School,0,MicrobeSwarmChar_BP_C
+Parasaur,1,MicrobeSwarmChar_BP_C
+Party Dodo,0,Para_Character_BP_C
+Pegomastax,1,Pegomastax_Character_BP_C
+Pelagornis,1,Pela_Character_BP_C
+Phiomia,1,Phiomia_Character_BP_C
+Phoenix,0,Phoenix_Character_BP_C
+Piranha,0,Piranha_Character_BP_C
+Plesiosaur,1,Plesiosaur_Character_BP_C
+Poison Wyvern,1,Wyvern_Character_BP_Poison_C
+Polar Bear,0,Wyvern_Character_BP_Poison_C
+Polar Purlovia,0,Wyvern_Character_BP_Poison_C
+Procoptodon,1,Procoptodon_Character_BP_C
+Pteranodon,1,Ptero_Character_BP_C
+Pulmonoscorpius,1,Scorpion_Character_BP_C
+Purlovia,1,Purlovia_Character_BP_C
+Quetzal,1,Purlovia_Character_BP_C
+R-Allosaurus,1,Allo_Character_BP_Rockwell_C
+Raptor,1,Raptor_Character_BP_C
+Rare X-Sabertooth Salmon,0,Raptor_Character_BP_C
+Ravager,1,CaveWolf_Character_BP_C
+R-Brontosaurus,1,Sauropod_Character_BP_Rockwell_C
+R-Carbonemys,1,Turtle_Character_BP_Rockwell_C
+R-Carnotaurus,1,Carno_Character_BP_Rockwell_C
+R-Daeodon,1,Daeodon_Character_BP_Eden_C
+R-Dilophosaur,1,Dilo_Character_BP_Rockwell_C
+R-Direwolf,1,Direwolf_Character_BP_Eden_C
+Reaper,1,Direwolf_Character_BP_Eden_C
+Reaper King,1,Xenomorph_Character_BP_Male_C
+Reaper Prince,0,Xenomorph_Character_BP_Male_InitialBuryOnly_Adolescent_C
+Reaper Queen,1,Xenomorph_Character_BP_Female_C
+R-Equus,1,Equus_Character_BP_C
+Rex,1,Rex_Character_BP_C
+Rex Ghost,0,Ghost_Rex_Character_BP_C
+R-Gasbags,1,GasBags_Character_BP_Eden_C
+R-Giganotosaurus,1,Gigant_Character_BP_Rockwell_C
+R-Megatherium,1,Megatherium_Character_BP_Eden_C
+Rock Drake,1,RockDrake_Character_BP_C
+Rock Elemental,0,RockGolem_Character_BP_C
+Rockwell,0,Rockwell_Character_BP_C
+Rockwell (Alpha),0,Rockwell_Character_BP_Hard_C
+Rockwell (Beta),0,Rockwell_Character_BP_Medium_C
+Rockwell (Gamma),0,Rockwell_Character_BP_Easy_C
+Rockwell Node,0,RockwellNode_Character_BP_FinalFight_C
+Rockwell Node (Alpha),0,RockwellNode_Character_BP_FinalFight_Alpha_C
+Rockwell Node (Beta),0,RockwellNode_Character_BP_FinalFight_Beta_C
+Rockwell Node (Gamma),0,RockwellNode_Character_BP_FinalFight_Gamma_C
+Rockwell Prime,0,RockwellNode_Character_BP_Boss_C
+Rockwell Prime (Alpha),0,RockwellNode_Character_BP_Boss_Alpha_C
+Rockwell Prime (Beta),0,RockwellNode_Character_BP_Boss_Beta_C
+Rockwell Prime (Gamma),0,RockwellNode_Character_BP_Boss_Gamma_C
+Roll Rat,1,MoleRat_Character_BP_C
+R-Parasaur,1,Para_Character_BP_Eden_C
+R-Procoptodon,1,Procoptodon_Character_BP_Eden_C
+R-Quetzal,1,Quetz_Character_BP_Rockwell_C
+R-Reaper King,1,Xenomorph_Character_BP_Male_Gen2_C
+R-Reaper Queen,1,Xenomorph_Character_BP_Female_Gen2_C
+R-Snow Owl,1,Owl_Character_BP_Eden_C
+R-Thylacoleo,1,Thylacoleo_Character_BP_Eden_C
+Rubble Golem,0,RubbleGolem_Character_BP_C
+R-Velonasaur,1,Spindles_Character_BP_Rockwell_C
+Sabertooth,1,Saber_Character_BP_C
+Sabertooth Salmon,0,Salmon_Character_BP_C
+Sarco,1,Sarco_Character_BP_C
+Savage Acrocanthosaurus (Mod:ARK Additions),0,Sarco_Character_BP_C
+Scout,0,Scout_Character_BP_C
+Seeker,0,Pteroteuthis_Char_BP_C
+Shadowmane,1,LionfishLion_Character_BP_C
+Shinehorn,1,LanternGoat_Character_BP_C
+Sinomacrops,1,LanternGoat_Character_BP_C
+Skeletal Bronto,0,Bone_Sauropod_Character_BP_C
+Skeletal Carnotaurus,0,Bone_MegaCarno_Character_BP_C
+Skeletal Giganotosaurus,0,Bone_Gigant_Character_BP_C
+Skeletal Jerboa,0,Bone_Jerboa_Character_BP_C
+Skeletal Quetzal,0,Bone_Quetz_Character_BP_C
+Skeletal Raptor,0,Bone_MegaRaptor_Character_BP_C
+Skeletal Rex,0,Bone_MegaRex_Character_BP_C
+Skeletal Stego,0,Bone_Stego_Character_BP_C
+Skeletal Trike,0,Bone_Trike_Character_BP_C
+Snow Owl,1,Owl_Character_BP_C
+Snow Owl Ghost,0,Ghost_Owl_Character_BP_C
+Spino,1,Spino_Character_BP_C
+Spirit Dire Bear,1,Spino_Character_BP_C
+Spirit Direwolf,1,Spino_Character_BP_C
+Stegosaurus,1,Stego_Character_BP_C
+Subterranean Reaper King,0,Stego_Character_BP_C
+Summoner,0,Summoner_Character_BP_C
+Super Turkey,0,Turkey_Character_BP_C
+Surface Reaper King,0,Turkey_Character_BP_C
+Surface Reaper King Ghost,0,Ghost_Xenomorph_Character_BP_Male_Surface_C
+Tapejara,1,Tapejara_Character_BP_C
+Tek Parasaur,1,BionicPara_Character_BP_C
+Tek Quetzal,1,BionicQuetz_Character_BP_C
+Tek Raptor,1,BionicRaptor_Character_BP_C
+Tek Rex,1,BionicRex_Character_BP_C
+Tek Stegosaurus,1,BionicStego_Character_BP_C
+Tek Stryder,0,TekStrider_Character_BP_C
+Tek Triceratops,1,BionicTrike_Character_BP_C
+Terror Bird,1,TerrorBird_Character_BP_C
+Therizinosaur,1,Therizino_Character_BP_C
+Thorny Dragon,1,SpineyLizard_Character_BP_C
+Thylacoleo,1,Thylacoleo_Character_BP_C
+Titanoboa,0,BoaFrill_Character_BP_C
+Titanomyrma,0,FlyingAnt_Character_BP_C
+Titanomyrma Drone,0,FlyingAnt_Character_BP_C
+Titanomyrma Soldier,0,FlyingAnt_Character_BP_C
+Titanosaur,0,Titanosaur_Character_BP_C
+Triceratops,1,Trike_Character_BP_C
+Trilobite,0,Trilobite_Character_C
+Troodon,1,Troodon_Character_BP_C
+Tropeognathus,1,Tropeognathus_Character_BP_C
+Tropical Crystal Wyvern,1,CrystalWyvern_Character_BP_WS_C
+Tusoteuthis,1,Tusoteuthis_Character_BP_C
+Unicorn,1,Equus_Character_BP_Unicorn_C
+Velonasaur,1,Spindles_Character_BP_C
+Voidwyrm,1,TekWyvern_Character_BP_C
+VR Allosaurus,1,TekWyvern_Character_BP_C
+VR Araneo,1,TekWyvern_Character_BP_C
+VR Argentavis,1,TekWyvern_Character_BP_C
+VR Astrodelphis,1,TekWyvern_Character_BP_C
+VR Bloodstalker,1,TekWyvern_Character_BP_C
+VR Carnotaurus,1,TekWyvern_Character_BP_C
+VR Chalicotherium,1,TekWyvern_Character_BP_C
+VR Dilophosaur,1,TekWyvern_Character_BP_C
+VR Dimorphodon,1,TekWyvern_Character_BP_C
+VR Enforcer,0,TekWyvern_Character_BP_C
+VR Ferox,0,TekWyvern_Character_BP_C
+VR Kaprosuchus,1,TekWyvern_Character_BP_C
+VR Karkinos,0,TekWyvern_Character_BP_C
+VR Lymantria,1,TekWyvern_Character_BP_C
+VR Mantis,1,TekWyvern_Character_BP_C
+VR Megalania,1,TekWyvern_Character_BP_C
+VR Megatherium,1,TekWyvern_Character_BP_C
+VR Onyc,1,TekWyvern_Character_BP_C
+VR Pachy,1,TekWyvern_Character_BP_C
+VR Parasaur,1,TekWyvern_Character_BP_C
+VR Pulmonoscorpius,1,TekWyvern_Character_BP_C
+VR Raptor,1,TekWyvern_Character_BP_C
+VR Ravager,1,TekWyvern_Character_BP_C
+VR Rex,1,TekWyvern_Character_BP_C
+VR Shadowmane,1,TekWyvern_Character_BP_C
+VR Stegosaurus,1,TekWyvern_Character_BP_C
+VR Tapejara,1,TekWyvern_Character_BP_C
+VR Terror Bird,1,TekWyvern_Character_BP_C
+VR Titanoboa,0,TekWyvern_Character_BP_C
+VR Triceratops,1,TekWyvern_Character_BP_C
+VR Velonasaur,1,TekWyvern_Character_BP_C
+Vulture,1,Vulture_Character_BP_C
+Water Jug Bug,0,Jugbug_Water_Character_BP_C
+Woolly Rhino,1,Rhino_Character_BP_C
+Wyvern,1,Wyvern_Character_BP_Base_C
+X-Allosaurus,1,Volcano_Allo_Character_BP_C
+X-Ankylosaurus,1,Volcano_Ankylo_Character_BP_C
+X-Argentavis,1,Snow_Argent_Character_BP_C
+X-Basilosaurus,1,Ocean_Basilosaurus_Character_BP_C
+X-Dunkleosteus,1,Ocean_Dunkle_Character_BP_C
+X-Ichthyosaurus,1,Ocean_Dolphin_Character_BP_C
+X-Megalodon,1,Ocean_Megalodon_Character_BP_C
+X-Mosasaurus,1,Ocean_Mosa_Character_BP_C
+X-Otter,1,Snow_Otter_Character_BP_C
+X-Paraceratherium,1,Bog_Paracer_Character_BP_C
+X-Parasaur,1,Bog_Para_Character_BP_C
+X-Raptor,1,Bog_Raptor_Character_BP_C
+X-Rex,1,Volcano_Rex_Character_BP_C
+X-Rock Elemental,0,Volcano_Golem_Character_BP_C
+X-Sabertooth,1,Snow_Saber_Character_BP_C
+X-Sabertooth Salmon,0,Lunar_Salmon_Character_BP_C
+X-Spino,1,Bog_Spino_Character_BP_C
+X-Tapejara,1,Bog_Tapejara_Character_BP_C
+X-Triceratops,1,Volcano_Trike_Character_BP_C
+X-Woolly Rhino,1,Snow_Rhino_Character_BP_C
+X-Yutyrannus,1,Snow_Yutyrannus_Character_BP_C
+Yeti,0,Yeti_Character_BP_C
+Yutyrannus,1,Yutyrannus_Character_BP_C
+Zombie Fire Wyvern,0,Wyvern_Character_BP_ZombieFire_C
+Zombie Lightning Wyvern,0,Wyvern_Character_BP_ZombieLightning_C
+Zombie Poison Wyvern,0,Wyvern_Character_BP_ZombiePoison_C
+Zombie Wyvern,0,Wyvern_Character_BP_ZombiePoison_C
+Zomdodo,0,ZombieDodo_Character_BP_C
